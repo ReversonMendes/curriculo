@@ -47,9 +47,14 @@ Gosto trabalhar em equipe e com a comunidade. No meu tempo livre, gosto de apren
 ## Cursos
 
 * Programação Java (UNICISS)
-* tem mais
+* Scrum (UNICISS)
+* GITLAB (UNICISS)
+* Oficina Arduino (UNICISS)
+* AngularJs (UNICISS)
+* Inglês Intermediário (FisK)
+* Testes (UNICISS)
 
 
 ## Extras
 
-* coisas
+* Desenvolvido website para clínica odontológica [http://amesorrissos.com/](http://amesorrissos.com)
