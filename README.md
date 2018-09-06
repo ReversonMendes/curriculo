@@ -32,6 +32,7 @@ Gosto trabalhar em equipe e com a comunidade. No meu tempo livre, gosto de apren
 * MySQL - Postgres - Firebase
 * TDD and Integração Contínua
 * Scrum and Kanban
+* Java
 
 ## Experiência Profissional
 
