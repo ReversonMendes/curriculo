@@ -23,6 +23,7 @@ Gosto trabalhar em equipe e com a comunidade. No meu tempo livre, gosto de apren
 * CSS (Sass)
 * Css Frameworks (Bootstrap, Materialize)
 * Javascript (Design Patterns, Testes)
+* TypeScript
 * AngularJS
 * NodeJS
 * Automatizadores (Grunt, Gulp, Npm)
@@ -32,13 +33,17 @@ Gosto trabalhar em equipe e com a comunidade. No meu tempo livre, gosto de apren
 * MySQL - Postgres - Firebase
 * TDD and Integração Contínua
 * Scrum and Kanban
-* Java
+* Java (SpringBoot, JavaEE)
 
 ## Experiência Profissional
 
-**ERP Developer** - CISS - Dezembro 2013 - Presente
+**FullStack Developer** - CISS - Outubro 2018 - Presente
 
-> Como parte da equipe de Manutenção e Melhorias, eu sou responsável por desenvolver novos módulos e manter de forma eficiente, reutilizável e confiável o código do CISSPoder (sistema ERP para supermercado e Materias de Construção). Trabalhando com: Powerbuilder, GitLab, TDD/BDD.
+> Atuo em desenvolvimentos de produtos WEB como fulstack ou seja com BackEnd e FrontEnd, trabalhando com: Java utilizando o SpringBoot, AngularJS e Ionic para mobile, GitLab, TDD/BDD.
+
+**ERP Developer** - CISS - Dezembro 2013 - Setembro 2018
+
+> Como parte da equipe de Manutenção e Melhorias, sendo responsável por desenvolver novos módulos e manter de forma eficiente, reutilizável e confiável o código do CISSPoder (sistema ERP para supermercado e Materias de Construção). Trabalhando com: Powerbuilder, GitLab, TDD/BDD.
 
 ## Formação
 
