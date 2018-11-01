@@ -4,7 +4,7 @@
 
 **Telefone:** +55 (046) 99931 7183
 
-**Site:** [reversonmendes.github.io](http://reversonmendes.com.br)
+**Site:** [reversonmendes.com.br](http://reversonmendes.github.io)
 
 **E-mail:** reversondv@gmail.com
 
