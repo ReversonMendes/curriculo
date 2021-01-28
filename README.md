@@ -27,19 +27,18 @@ Gosto trabalhar em equipe e com a comunidade. No meu tempo livre, gosto de apren
 * AngularJS
 * NodeJS
 * Automatizadores (Grunt, Gulp, Npm)
-* Python/Django/Flask
 * Git
 * PHP
-* MySQL - Postgres - Firebase
+* MySQL - Postgres - Firebase - DB2
 * TDD and Integração Contínua
 * Scrum and Kanban
-* Java (SpringMVC, JavaEE, JAVA 8) 
+* Java (SpringMVC, JavaEE, JAVA 8,9,11) 
 
 ## Experiência Profissional
 
 **FullStack Developer** - CISS - Outubro 2018 - Presente
 
-> Atuo em desenvolvimentos de produtos WEB como fulstack ou seja com BackEnd e FrontEnd, trabalhando com: Java utilizando o SpringBoot, AngularJS e Ionic para mobile, GitLab, TDD/BDD.
+> Atuo em desenvolvimentos de produtos WEB como fullstack ou seja com BackEnd e FrontEnd, trabalhando com: Java utilizando o SpringBoot, AngularJS e Ionic para mobile, GitLab, TDD/BDD.
 
 **ERP Developer** - CISS - Dezembro 2013 - Setembro 2018
 
